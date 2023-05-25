@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Catalog.Service.Queries": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53502;http://localhost:53508"
+    }
+  }
+}
